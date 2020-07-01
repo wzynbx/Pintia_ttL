@@ -13,4 +13,4 @@ function ttl1015() {
         process.exit(0);
     })
 }
-ttl1015();
+ttl1015();//函数调用
